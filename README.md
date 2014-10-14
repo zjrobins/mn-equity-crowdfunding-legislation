@@ -1,2 +1,5 @@
-mn-equity-crowdfunding-legislation
+MN Equity Crowdfunding Legislation
 ==================================
+
+More information can be found at
+[http://www.mnvest.org]
