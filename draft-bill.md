@@ -60,7 +60,7 @@ Intrastate Exception: Offer or sale of a single issue if the issuer meets the qu
     i. IN MAKING AN INVESTMENT DECISION, INVESTORS MUST RELY ON THEIR OWN EXAMINATION OF THE ISSUER AND THE TERMS OF THE OFFERING, INCLUDING THE MERITS AND RISKS INVOLVED. THESE SECURITIES HAVE NOT BEEN RECOMMENDED BY ANY FEDERAL OR STATE SECURITIES COMMISSION OR DIVISION OR OTHER REGULATORY AUTHORITY. FURTHERMORE, THE FOREGOING AUTHORITIES HAVE NOT CONFIRMED THE ACCURACY OR DETERMINED THE ADEQUACY OF THIS DOCUMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED BY SUBSECTION (e) OF SEC RULE 147 (17 CFR 230.147 (e)) AS PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND THE APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. INVESTORS SHOULD BE AWARE THAT THEY WILL BE REQUIRED TO BEAR THE FINANCIAL RISKS OF THIS INVESTMENT FOR AN INDEFINITE PERIOD OF TIME. 
 
 7. Required certification from purchaser: The issuer shall require each purchaser to certify in writing or electronically as follows: 
-8. 
+
   A. I UNDERSTAND AND ACKNOWLEDGE THAT: 
 
   B. I am investing in a high-risk, speculative business venture. I may lose all of my investment, and I can afford such a loss. 
@@ -90,6 +90,7 @@ Intrastate Exception: Offer or sale of a single issue if the issuer meets the qu
 10. Securities issued under the exemption provided by this section may not be transferred by the purchaser during a one-year period beginning on the date of purchase, unless the securities are transferred to 1) a resident of this state, 2) a purchaser qualifying under 202(13), or 3) the Issuer.
 
 11. Internet funding site requirements:
+
   A. The issuer may elect to operate its own internet funding site provided that it fulfills the obligations in paragraph (B) and that it only offers information and the purchase of its own securities. 
 
   B. The internet funding site shall provide notice to the administrator by filing a statement, which the administrator shall make available as an electronic document, accompanied by the filing fee specified in 80A.65 § 410, unless the issuer is providing its own internet funding site, in which case no fee is due. The statement shall include all of the following:
