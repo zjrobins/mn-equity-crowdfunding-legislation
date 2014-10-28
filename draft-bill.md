@@ -1,5 +1,5 @@
 
-Addition to Exempt Transactions under Minn. Stat. 80A.45 § 202
+Addition to [Exempt Transactions under Minn. Stat. 80A.46 § 202](https://www.revisor.leg.state.mn.us/statutes/?id=80A.46)
 
 Intrastate Exception: Offer or sale of a single issue if the issuer meets the qualifications and obligations under this subsection:
 
