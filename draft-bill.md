@@ -21,11 +21,13 @@ Intrastate Exception: Offer or sale of a single issue if the issuer meets the qu
 
 2. Aggregate Sales Limit: The sum of all cash and other consideration to be received for all sales of the security in reliance on the exemption under this subsection during any twelve month period, is not to exceed the following amount: 
 
-  A. $1,000,000, if the issuer has not made available to each prospective investor a financial audit of its most recently completed fiscal year which complies with generally accepted accounting principles.
+  A. $100,000, if the issuer has not made available to each prospective investor full financial statements of its most recently completeted fiscal year because issuer has yet to complete one year of its operations. To qualify in this category, issuer must provide full bios and past work references, of all executives or founders, to each perspective investor. 
   
-  B. $2,000,000, if the issuer has made available to each prospective investor a financial audit of its most recently completed fiscal year which complies with generally accepted accounting principles.
+  B. $1,000,000, if the issuer has not made available to each prospective investor a financial audit of its most recently completed fiscal year which complies with generally accepted accounting principles.
+  
+  C. $2,000,000, if the issuer has made available to each prospective investor a financial audit of its most recently completed fiscal year which complies with generally accepted accounting principles.
 
-3. Individual investment limitation: The issuer may not accept more than $10,000 from a single purchaser unless the purchaser qualifies under 202(13). No single purchaser may purchase more than $10,000 in securities from one or more issuers under this exemption in a twelve month period unless the purchaser qualifies under 202(13). 
+3. Individual investment limitation: The issuer may not accept more than $20,000, or 10% of their adjusted gross income reproted in purchaser's annual return, whichever is lesser, from a single purchaser, unless the purchaser qualifies under 202(13). No single purchaser may purchase more than $15,000 or 7.5% of their adjusted gross income reproted in thir annual return, whichever is lesser, in securities from one or more issuers under this exemption in a twelve month period unless the purchaser qualifies under 202(13). 
 
 4. Escrow requirement: The issuer shall enter in to an escrow agreement with a bank, regulated trust company or corporate fiduciary, savings bank, savings and loan association, or credit union authorized to do business in Minnesota. The escrow agreement shall provide that the offering proceeds may be released to the issuer only when the aggregate capital raised from all investors is equal to or greater than the minimum target offering amount specified in the prospectus. Any investor may cancel their commitments to invest if that target offering amount is not raised by the time stated in the disclosure document. 
 
